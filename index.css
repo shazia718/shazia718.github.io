@@ -1,0 +1,61 @@
+#main-heading {
+  background-color: purple;
+}
+
+#about {
+  background-color: grey;
+  margin-top: 100px;
+  color: white;
+}
+
+hr {
+  display: block;
+  height: 6px;
+  background-color: white;
+}
+
+#portfolio {
+  margin-top: 100px;
+  background-color: white;
+  color: grey;
+}
+
+#line2,
+#line3 {
+  display: block;
+  height: 6px;
+  background-color: grey;
+}
+
+.text-center {
+  text-align: center;
+}
+
+img {
+  width: 525px;
+  height: 350px;
+}
+
+#contact {
+  background-color: white;
+  margin-top: 75px;
+  color: grey;
+  margin-bottom: 75px;
+}
+
+#main {
+  overflow-y: scroll;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#mypic {
+  height: 275px;
+  width: 275px;
+}
